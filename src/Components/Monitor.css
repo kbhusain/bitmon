@@ -1,0 +1,22 @@
+.temperature {
+	font-size: 16; 
+	color: orange;
+	font-weight: bold;
+}
+.depth {
+	font-size: 16; 
+	color: brown;
+	font-weight: bold;
+	display: inline-block;
+}
+
+.platformTitle { 
+	font-size:  28px; 
+	display: inline-block;
+	width: 50px;
+	color: blue;
+}
+
+.listMonitor { 
+list-style: none; 
+}
